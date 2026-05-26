@@ -82,6 +82,7 @@
 | [0046-permutations](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
@@ -135,6 +136,7 @@
 | [0038-count-and-say](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0049-group-anagrams) |
 | [2027-minimum-moves-to-convert-string](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/2027-minimum-moves-to-convert-string) |
 ## Greedy
 |  |
@@ -164,6 +166,7 @@
 | [0036-valid-sudoku](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |
@@ -180,6 +183,7 @@
 | [0016-3sum-closest](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |
 ## Counting

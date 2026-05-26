@@ -35,6 +35,7 @@
 | [0032-longest-valid-parentheses](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0045-jump-game-ii) |
 | [0509-fibonacci-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -76,6 +77,7 @@
 | [0040-combination-sum-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
@@ -135,6 +137,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0045-jump-game-ii) |
 | [0860-lemonade-change](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0860-lemonade-change) |
 | [2027-minimum-moves-to-convert-string](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/2027-minimum-moves-to-convert-string) |
 ## Sliding Window

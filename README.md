@@ -87,6 +87,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0006-zigzag-conversion) |
 | [2027-minimum-moves-to-convert-string](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/2027-minimum-moves-to-convert-string) |
 ## Greedy
 |  |

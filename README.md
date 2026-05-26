@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0231-power-of-two) |
@@ -108,6 +109,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0258-add-digits) |
 ## String
 |  |
@@ -123,6 +125,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0043-multiply-strings) |
 | [2027-minimum-moves-to-convert-string](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/2027-minimum-moves-to-convert-string) |
 ## Greedy
 |  |

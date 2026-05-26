@@ -49,6 +49,7 @@
 | [0063-unique-paths-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0072-edit-distance) |
 | [0509-fibonacci-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -171,6 +172,7 @@
 | [0067-add-binary](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0072-edit-distance) |
 | [2027-minimum-moves-to-convert-string](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/2027-minimum-moves-to-convert-string) |
 ## Greedy
 |  |

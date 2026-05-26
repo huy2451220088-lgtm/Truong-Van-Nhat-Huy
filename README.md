@@ -38,6 +38,7 @@
 | [0042-trapping-rain-water](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -85,6 +86,7 @@
 | [0048-rotate-image](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
@@ -178,6 +180,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
 ## Sorting
 |  |

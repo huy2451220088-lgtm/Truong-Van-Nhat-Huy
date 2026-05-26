@@ -1,4 +1,4 @@
-# Truong-Van-Nhat-Huy
+# ĐỒ ÁN GIẢI THUẬT VÀ LẬP TRÌNH/TRƯƠNG VĂN NHẬT HUY
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math

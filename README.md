@@ -59,6 +59,7 @@
 | [0015-3sum](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
@@ -156,6 +157,7 @@
 | [0016-3sum-closest](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
 ## Binary Search
 |  |

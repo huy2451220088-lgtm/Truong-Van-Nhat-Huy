@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0231-power-of-two) |
@@ -75,6 +76,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |

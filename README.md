@@ -98,6 +98,7 @@
 | [0010-regular-expression-matching](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0020-valid-parentheses) |
 | [2027-minimum-moves-to-convert-string](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/2027-minimum-moves-to-convert-string) |
 ## Greedy
 |  |
@@ -164,4 +165,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

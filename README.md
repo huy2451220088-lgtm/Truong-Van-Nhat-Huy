@@ -170,6 +170,7 @@
 | [0065-valid-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0071-simplify-path) |
 | [2027-minimum-moves-to-convert-string](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/2027-minimum-moves-to-convert-string) |
 ## Greedy
 |  |
@@ -279,6 +280,7 @@
 | [0020-valid-parentheses](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0071-simplify-path) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

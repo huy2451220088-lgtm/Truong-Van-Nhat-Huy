@@ -67,6 +67,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
@@ -139,6 +140,7 @@
 | [0012-integer-to-roman](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0023-merge-k-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->

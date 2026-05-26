@@ -44,6 +44,7 @@
 | [0055-jump-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0064-minimum-path-sum) |
 | [0509-fibonacci-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -98,6 +99,7 @@
 | [0057-insert-interval](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
@@ -281,6 +283,7 @@
 | [0054-spiral-matrix](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0064-minimum-path-sum) |
 ## Monotonic Stack
 |  |
 | ------- |

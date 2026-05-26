@@ -176,6 +176,7 @@
 | [0068-text-justification](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0076-minimum-window-substring) |
 | [2027-minimum-moves-to-convert-string](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/2027-minimum-moves-to-convert-string) |
 ## Greedy
 |  |
@@ -191,6 +192,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0076-minimum-window-substring) |
 | [1652-defuse-the-bomb](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1652-defuse-the-bomb) |
 ## Memoization
 |  |
@@ -209,6 +211,7 @@
 | [0041-first-missing-positive](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |

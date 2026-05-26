@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0342-power-of-four) |
 | [0507-perfect-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0507-perfect-number) |
@@ -19,10 +20,12 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1025-divisor-game) |
 ## Enumeration
 |  |

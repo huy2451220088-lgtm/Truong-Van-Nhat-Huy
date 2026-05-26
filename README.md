@@ -78,6 +78,7 @@
 | [0041-first-missing-positive](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
@@ -220,6 +221,7 @@
 | [0037-sudoku-solver](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0046-permutations) |
 ## Stack
 |  |
 | ------- |

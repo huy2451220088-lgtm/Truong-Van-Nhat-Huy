@@ -39,6 +39,7 @@
 | [0044-wildcard-matching](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -88,6 +89,7 @@
 | [0051-n-queens](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
@@ -151,6 +153,7 @@
 | [0011-container-with-most-water](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0860-lemonade-change) |
 | [2027-minimum-moves-to-convert-string](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/2027-minimum-moves-to-convert-string) |
 ## Sliding Window

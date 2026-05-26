@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [1037-valid-boomerang](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1037-valid-boomerang) |
+| [1652-defuse-the-bomb](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1652-defuse-the-bomb) |
 ## Geometry
 |  |
 | ------- |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [2027-minimum-moves-to-convert-string](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/2027-minimum-moves-to-convert-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->

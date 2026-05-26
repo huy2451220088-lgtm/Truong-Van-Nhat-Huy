@@ -16,6 +16,7 @@
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0258-add-digits) |
@@ -47,6 +48,7 @@
 | [0062-unique-paths](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1025-divisor-game) |
 ## Brainteaser
@@ -187,6 +189,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |

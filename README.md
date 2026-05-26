@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0342-power-of-four) |
@@ -34,6 +35,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1952-three-divisors) |
 ## Array
 |  |
@@ -52,4 +54,8 @@
 | ------- |
 | [0326-power-of-three](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0342-power-of-four) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

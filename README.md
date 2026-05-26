@@ -117,6 +117,7 @@
 | [0022-generate-parentheses](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0038-count-and-say) |
 | [2027-minimum-moves-to-convert-string](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/2027-minimum-moves-to-convert-string) |
 ## Greedy
 |  |

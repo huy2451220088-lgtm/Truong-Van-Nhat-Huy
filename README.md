@@ -108,6 +108,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0022-generate-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2027-minimum-moves-to-convert-string](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/2027-minimum-moves-to-convert-string) |
 ## Greedy
 |  |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [1652-defuse-the-bomb](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1652-defuse-the-bomb) |
 ## Memoization
 |  |
@@ -130,6 +132,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |

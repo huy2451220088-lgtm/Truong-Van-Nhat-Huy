@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
 | [1037-valid-boomerang](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1037-valid-boomerang) |
 | [1652-defuse-the-bomb](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1652-defuse-the-bomb) |
 ## Geometry
@@ -84,4 +85,20 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0509-fibonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

@@ -65,6 +65,7 @@
 | [0027-remove-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |
 ## Linked List
 |  |

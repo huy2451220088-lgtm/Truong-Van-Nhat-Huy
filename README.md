@@ -82,6 +82,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2027-minimum-moves-to-convert-string](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/2027-minimum-moves-to-convert-string) |
 ## Greedy
 |  |
@@ -90,6 +91,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1652-defuse-the-bomb](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1652-defuse-the-bomb) |
 ## Memoization
 |  |
@@ -98,6 +100,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |

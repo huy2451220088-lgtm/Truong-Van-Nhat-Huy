@@ -107,6 +107,7 @@
 | [0064-minimum-path-sum](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |
@@ -205,6 +206,7 @@
 | [0037-sudoku-solver](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |
@@ -301,6 +303,7 @@
 | [0059-spiral-matrix-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0073-set-matrix-zeroes) |
 ## Monotonic Stack
 |  |
 | ------- |

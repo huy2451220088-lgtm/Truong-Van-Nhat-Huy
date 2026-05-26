@@ -69,6 +69,7 @@
 | [0035-search-insert-position](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
@@ -201,6 +202,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0039-combination-sum) |
 ## Stack
 |  |
 | ------- |

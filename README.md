@@ -14,6 +14,7 @@
 | [0060-permutation-sequence](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0258-add-digits) |
@@ -115,6 +116,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |
@@ -140,6 +142,7 @@
 | [0043-multiply-strings](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0258-add-digits) |
 ## String
 |  |
@@ -160,6 +163,7 @@
 | [0049-group-anagrams](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0067-add-binary) |
 | [2027-minimum-moves-to-convert-string](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/2027-minimum-moves-to-convert-string) |
 ## Greedy
 |  |

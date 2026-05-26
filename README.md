@@ -9,6 +9,7 @@
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0342-power-of-four) |
@@ -51,6 +52,7 @@
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |
 | [1037-valid-boomerang](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1037-valid-boomerang) |
 | [1652-defuse-the-bomb](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1652-defuse-the-bomb) |
 ## Geometry
@@ -62,6 +64,7 @@
 | ------- |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
@@ -95,6 +98,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +107,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -111,4 +116,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0292-nim-game) |
@@ -46,6 +47,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0169-majority-element) |
 | [1037-valid-boomerang](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/1037-valid-boomerang) |

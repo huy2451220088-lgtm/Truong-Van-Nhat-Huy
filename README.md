@@ -11,6 +11,7 @@
 | [0043-multiply-strings](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0231-power-of-two) |
@@ -122,6 +123,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/huy2451220088-lgtm/Truong-Van-Nhat-Huy/tree/master/0342-power-of-four) |
